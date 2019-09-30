@@ -9,3 +9,5 @@ Now a nested list:
       * lentils
 
  2. Boil some water.
+ 
+ [^1]: Footnote text test.
