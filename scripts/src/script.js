@@ -7,7 +7,7 @@ heightMark = 1.90;
 massMark = 100;
 
 heightJohn = 1.75;
-massJohn = 80;
+massJohn = 74;
 
 bmiMark = massMark / (heightMark * heightMark);
 bmiJohn = massJohn / (heightJohn * heightJohn);
