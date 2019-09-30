@@ -37,3 +37,4 @@ else
 	exit 1
 fi
 
+echo "Thank you for using GitHub!"
