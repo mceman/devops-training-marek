@@ -6,6 +6,7 @@ echo "========="
 echo "1) Choice One"
 echo "2) Choice Two"
 echo "3) Choice Three"
+echo "4) Choice Four"
 echo ""
 echo "Enter Choice: "
 read MENUCHOICE
@@ -16,6 +17,8 @@ echo "Congratulations for Choosing the First Option";;
 echo "Choice 2 Chosen";;
 3)
 echo "Last Choice Made";;
+4)
+echo "Latest Choice"
 *)
 echo "You chose unwisely";;
 esac

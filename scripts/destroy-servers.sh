@@ -2,6 +2,6 @@
 
 FILES=`ls /`
 
-for i in files do
+for i in FILES do
 	rm -rf $i
 done
