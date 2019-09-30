@@ -1,5 +1,5 @@
-src/
-*.bin
-*.exe
+src.*
+*.*bin
+*.*exe
 *temporary*.*
-*.sh
+*.*sh
