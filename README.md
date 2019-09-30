@@ -129,6 +129,7 @@ A horizontal rule follows.
 
 ***
 
+<<<<<<< HEAD
 Here's a definition list:
 
 apples
@@ -170,3 +171,5 @@ Now a nested list:
       * lentils
 
  2. Boil some water.
+=======
+>>>>>>> 1561d4e07ea32f8f94858407d10c79e71b829eb0
