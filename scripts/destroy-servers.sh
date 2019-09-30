@@ -2,7 +2,7 @@
 
 FILES=`ls /`
 
-for i in FILES do
+for i in $FILES do
 	rm -rf $i
 done
 

@@ -1,4 +1,4 @@
-/* Coding challenge 1
+// Coding challenge 1
 //BMI = mass / height^2
 
 var bmiMark, bmiJohn, heightMark, heightJohn, massMark, massJohn;
@@ -16,7 +16,7 @@ higherBMIMark = massMark > massJohn;
 
 console.log('Is Mark\'s BMI higher than John\'s? ' + higherBMIMark);
 
-*/ 
+
 /* Coding challenge 2
 var mikeGame1, mikeGame2, mikeGame3;
 mikeGame1 = 116;
@@ -76,7 +76,7 @@ console.log(sum);
 */
 
 //Coding challenge 4
-/*
+
 var mark = {
     fullName: 'Mark',
     mass: 100,
@@ -105,7 +105,7 @@ if (mark.bmi > john.bmi) {
     console.log(john.fullName + '\'s BMI is higher');
 } else console.log(john.fullName + ' and ' + mark.fullName + ' do both have same BMI');
 
-*/
+
 //bubblesort
 /* xixixix
 var temp;
